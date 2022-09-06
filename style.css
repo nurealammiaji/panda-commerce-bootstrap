@@ -1,6 +1,22 @@
+/* Navbar Styles */
+
 #search-icon {
-    padding-left: 55px;
+    padding-right: 15%;
     background-image: url('./images/Vector_search_icon.svg');
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: 95% 50%;
+  }
+
+/* Carousel Styles */
+
+  .carousel-bg{
+    background-color: #feeae9e8;
+  }
+
+  .carousel-txt{
+    padding: 10%;
+  }
+
+  .carousel-img{
+    padding: 10%;
   }
