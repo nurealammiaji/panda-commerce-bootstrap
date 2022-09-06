@@ -20,3 +20,9 @@
   .carousel-img{
     padding: 10%;
   }
+
+  /* Category Styles */
+
+  .cat-img{
+    width: 25%;
+  }
